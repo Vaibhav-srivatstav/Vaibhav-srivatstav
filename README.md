@@ -1,5 +1,5 @@
 #Vaibhav-Srivatstav
-I am pursuing Masters of Computer Application  degree from University of Allahabad. 
+I am pursuing Masters of Computer Application  degree from University of Allahabad. .
 
 
 ## 🌐 Socials:
