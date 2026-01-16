@@ -1,6 +1,9 @@
-
 #Vaibhav-Srivatstav
-I am pursuing Masters of Computer Application  degree from University of Allahabad. .
+![Header](./github-header-banner.png)
+
+<!-- Your Info. -->
+<h1 align="center">Hi 👋, I'm Vaibhav Srivastava</h1>
+<h3 align="center"> MERN Stack Developer</h3>
 
 
 ## 🌐 Socials:
