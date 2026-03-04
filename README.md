@@ -7,7 +7,7 @@
 
 ### A passionate Javascript developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-srivatstav" alt="Vaibhav-srivatstav" /></a> </p>
+<!<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-srivatstav" alt="Vaibhav-srivatstav" /></a> </p>>
 
 - Visit my work: **[https://portfolio-vaibhav-srivastava.vercel.app/](https://portfolio-vaibhav-srivastava.vercel.app/)**
 
