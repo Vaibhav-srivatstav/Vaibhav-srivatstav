@@ -32,8 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-srivatstav&show_icons=true&locale=en" alt="Vaibhav-srivatstav" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=vaibhav-srivatastava&hide_border=true&type=png)" alt="Vaibhav-srivatstav" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhav-srivatastava&hide_border=true&type=png" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhav-srivatastav&hide_border=true&type=png" alt="GitHub Streak" /></a>
 
 
 <!-- Snake Game Repo View -->
