@@ -1,5 +1,8 @@
 #Vaibhav-Srivatstav
 ![Header](./github-header-banner.png)
+<p align="center">
+  <img src="./output (1).gif" width="800" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm vaibhav srivastava</h1>
