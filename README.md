@@ -1,4 +1,4 @@
-#Vaibhav-Srivatstav
+#Vaibhav-srivatstav
 ![Header](./github-header-banner.png)
 <p align="center">
   <img src="./output (1).gif" width="300" /><img src="./output (2).gif" width="300" /><img src="./output (3).gif" width="300" />
