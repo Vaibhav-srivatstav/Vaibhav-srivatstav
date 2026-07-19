@@ -22,12 +22,10 @@ const vaibhav = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [InterviewMatrix](https://interview-matrix-ashen.vercel.app/)
-
+<details open>
+<summary>
+🎯 [InterviewMatrix]
+</summary>
 **AI-powered technical interview practice platform**
 
 An end-to-end platform that simulates real interview conditions — reading facial expressions, analyzing voice, scoring answers with NLP, and generating questions straight from a candidate's resume.
@@ -52,13 +50,13 @@ An end-to-end platform that simulates real interview conditions — reading faci
 <a href="https://interview-matrix-ashen.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-7dd3fc?style=for-the-badge&logoColor=000" /></a>
 <a href="https://github.com/Vaibhav-srivatstav/interviewmatrix"><img src="https://img.shields.io/badge/💻_Source_Code-1a1b27?style=for-the-badge" /></a>
 
+https://interview-matrix-ashen.vercel.app
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-srivatstav&repo=interviewmatrix&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" alt="InterviewMatrix pin" /> -->
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 [RentFleet](https://rent-fleet.vercel.app/)
-
+</details>
+<details>
+<summary>
+🚗 [RentFleet]
+</summary>
 **Modern vehicle rental platform**
 
 A full-stack rental service built to make booking a vehicle as smooth as possible — browsing the latest models, managing bookings, and delivering a clean customer experience end-to-end.
@@ -82,11 +80,10 @@ A full-stack rental service built to make booking a vehicle as smooth as possibl
 <a href="https://rent-fleet.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-7dd3fc?style=for-the-badge&logoColor=000" /></a>
 <a href="https://github.com/Vaibhav-srivatstav/rentfleet"><img src="https://img.shields.io/badge/💻_Source_Code-1a1b27?style=for-the-badge" /></a>
 
+ https://rent-fleet.vercel.app
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav-srivatstav&repo=rentfleet&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&bg_color=1a1b27" alt="RentFleet pin" /> -->
 
-</td>
-</tr>
-</table>
+</details>
 
 <br/>
 
