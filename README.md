@@ -136,16 +136,16 @@ A full-stack rental service built to make booking a vehicle as smooth as possibl
 <div align="center">
 
 <a href="https://www.linkedin.com/in/-vaibhav-srivastava/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://x.com/sri_vaibhav0">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="mailto:srivaibhav630@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://vaibhavsrivastava-psi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=vercel&logoColor=000000" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
 </div>
