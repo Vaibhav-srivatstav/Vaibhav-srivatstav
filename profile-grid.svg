@@ -8,16 +8,16 @@
   -webkit-size-adjust: 109%;
   size-adjust: 109%;
 }
-.key      { fill: #ffffff; }   
-.value    { fill: #7db3e8; }   
-.cc       { fill: #dae2ec; }   
-.addColor { fill: #54c09c; }   
-.delColor { fill: #e46262; }   
+.key      { fill: #e3687d; }   
+.value    { fill: #f8fafc; }   
+.cc       { fill: #64748b; }   
+.addColor { fill: #10b981; }   
+.delColor { fill: #ef4444; }   
 text, tspan { white-space: pre; }
 </style>
-<rect width="1180px" height="530px" fill="#0d0d0d" rx="15" stroke="#000000" stroke-width="2"/>
+<rect width="1180px" height="530px" fill="#0f172a" rx="15" stroke="#000000" stroke-width="2"/>
 <g transform="translate(22,20) scale(0.42,0.88)">
-<text x="0" y="0" fill="#ffffff" class="ascii">
+<text x="0" y="0" fill="#fafafa" class="ascii">
 <tspan x="-10" y="-30">                                                                                                                        </tspan>
 <tspan x="-10" y="-21">                                                                                                                        </tspan>
 <tspan x="-10" y="-12">                                                                                                                        </tspan>
@@ -75,25 +75,26 @@ text, tspan { white-space: pre; }
 <tspan x="-10" y="456">.=-================%*@%*@@%%%%%%%%%%%%%%%@@@@%%%%%%=*#%:-#+=###%%@@@ @@@%%%%%%%%%%%%%%%%%*++==-=%*%%#%%%+==-=---=====++#</tspan>
 </text>
 </g>
-<text x="500" y="30" fill="#7db3e8">
-<tspan x="520" y="30" fill="#ffffff" fontsize="17px">VAIBHAV-SRIVATSTAV@Vaibhav Srivastava</tspan> -———————————————————————————————————————————-—-
+<text x="500" y="30" fill="#f8fafc">
+<tspan x="520" y="30" fill="#fafafa" fontsize="17px">VAIBHAV-SRIVATSTAV@Vaibhav Srivastava</tspan> -———————————————————————————————————————————-—-
 <tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">VAIBHAV SRIVASTAVA</tspan>
 <tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Full Stack Dev</tspan>
 <tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Age</tspan><tspan class="cc" id="age_dots"> .......... </tspan><tspan class="value" id="age_data">22 years, 2 months, 3 days</tspan>
 <tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc"> ........... </tspan><tspan class="value">Building • Learning • Shipping</tspan>
 <tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc"> ............. </tspan><tspan class="value">VS Code, Git</tspan>
 <tspan x="520" y="150" class="cc">. </tspan>
-<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">TS, JS, Python</tspan>
+<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">TS, JS, Python, Java , C</tspan>
+<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">OpenAI, LLM</tspan>
 <tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML/CSS, React, Next.js, Tailwind</tspan>
-<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Node.js, Express, MongoDB, Postgres, SpringBoot </tspan>
+<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Node.js, Express, MongoDB, Postgress</tspan>
 <tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">EVM, Smart Contracts</tspan>
 <tspan x="520" y="270" class="cc">. </tspan>
-<tspan x="520" y="290" fill="#edb6d1">- Contact</tspan> -————————————————————————————————________________—————-—-
+<tspan x="520" y="290" fill="#ec4899">- Contact</tspan> -————————————————————————————————________________—————-—-
 <tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">srivaibhav630@gmail.com</tspan>
 <tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">https://vaibhavsrivastava-psi.vercel.app/</tspan>
 <tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">-vaibhav-srivastava</tspan>
 <tspan x="520" y="370" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Vaibhav-srivatstav</tspan>
-<tspan x="520" y="410" fill="#edb6d1">- GitHub Stats</tspan> -————————————————————————————————________________-—-
+<tspan x="520" y="410" fill="#ec4899">- GitHub Stats</tspan> -————————————————————————————————________________-—-
 <tspan x="520" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_dots"> .. </tspan><tspan class="value" id="repo_data">15</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">19</tspan>   }  | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
 <tspan x="520" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_dots"> .................. </tspan><tspan class="value" id="commit_data">85</tspan>       | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_dots"> ....... </tspan><tspan class="value" id="follower_data">3</tspan>
 <tspan x="520" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_dots">. </tspan><tspan class="value" id="loc_data">156,151</tspan> ( <tspan class="addColor" id="loc_add">158,647</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">2,496</tspan><tspan class="delColor">--</tspan> )
