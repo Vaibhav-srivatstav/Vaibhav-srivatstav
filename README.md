@@ -7,10 +7,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="./output (1).gif" width="300" /><img src="./output (2).gif" width="300" /><img src="./output (3).gif" width="300" />
-</p>
-
 
 <h1 align="center">Hi 👋, I'm vaibhav srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
