@@ -84,7 +84,6 @@ text, tspan { white-space: pre; }
 <tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc"> ............. </tspan><tspan class="value">VS Code, Git</tspan>
 <tspan x="520" y="150" class="cc">. </tspan>
 <tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">TS, JS, Python</tspan>
-<!-- <tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">OpenAI, LLMs</tspan> -->
 <tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML/CSS, React, Next.js, Tailwind</tspan>
 <tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Node.js, Express, MongoDB, Postgres, SpringBoot </tspan>
 <tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">EVM, Smart Contracts</tspan>
