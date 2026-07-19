@@ -1,5 +1,12 @@
 #Vaibhav-srivatstav
 ![Header](./github-header-banner.png)
+
+<div align="center">
+  <a href="https://github.com/Vaibhav-srivatstav">
+    <img src="https://raw.githubusercontent.com/Vaibhav-srivatstav/Vaibhav-srivatstav/main/profile-grid.svg" alt="Profile Grid" width="100%" />
+  </a>
+</div>
+
 <p align="center">
   <img src="./output (1).gif" width="300" /><img src="./output (2).gif" width="300" /><img src="./output (3).gif" width="300" />
 </p>
