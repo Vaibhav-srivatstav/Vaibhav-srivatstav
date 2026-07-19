@@ -1,6 +1,12 @@
 #Vaibhav-srivatstav
 ![Header](./github-header-banner.png)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhav-srivatstav/Vaibhav-srivatstav/main/Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhav-srivatstav/Vaibhav-srivatstav/main/Light.svg">
+  <img alt="Vaibhav's profile banner" src="https://raw.githubusercontent.com/Vaibhav-srivatstav/Vaibhav-srivatstav/main/Dark.svg">
+</picture>
+
 <div align="center">
   <a href="https://github.com/Vaibhav-srivatstav">
     <img src="https://raw.githubusercontent.com/Vaibhav-srivatstav/Vaibhav-srivatstav/main/profile-grid.svg" alt="Profile Grid" width="100%" />
